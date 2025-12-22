@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+:root{
+    --primary-color: #4e7a49;
+    --secondary-color: ;
+}
+body, html{
+    overflow-x: hidden;
+}
